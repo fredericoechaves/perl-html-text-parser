@@ -1,0 +1,1 @@
+cat url | wget  -i - -O - 2>/dev/null | ./p.pl
